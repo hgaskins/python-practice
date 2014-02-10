@@ -1,3 +1,6 @@
-#Hi Josh
-#temp (C to F, F to C) conversions with user input
+#herro josh
+#temperature conversions (C and F) from user input
 
+unit = input("Herrrro Wolld. Are you using C or F today?")
+
+print("\nOk, we are using", unit.upper())
